@@ -4,6 +4,6 @@
   lang: JavaScript; 
 }
 ```
-[![Spotify](https://Ant1N.vercel.app/api/spotify)](https://open.spotify.com/user/isakantin)
+[![Spotify](https://novatorem-ant1n.vercel.app/api/spotify)](https://open.spotify.com/user/isakantin)
 
 
