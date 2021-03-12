@@ -4,6 +4,6 @@
   lang: JavaScript; 
 }
 ```
-[![Spotify](https://isakantin.vercel.app/api/spotify)](https://open.spotify.com/user/isakantin)
+[![Spotify](https://ant1n.vercel.app/api/spotify)](https://open.spotify.com/user/isakantin)
 
 
