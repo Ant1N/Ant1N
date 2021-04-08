@@ -1,9 +1,9 @@
 <h2>Hey:wave:, i'm <a href="https://antin.me">Antin</a>:heart:</h2>
 
-- 🌱  I’m currently learning datastructures and algorithms.
-- ✉️  [@isakantin](https://www.linkedin.com/in/isakantin/) on Linkedin :smile:
+- 🌱  	&nbsp;I’m currently learning datastructures and algorithms.
+- ✉️  	&nbsp;[@isakantin](https://www.linkedin.com/in/isakantin/) on Linkedin :smile:
 
-<h3>:headphones:Listening to</h3><br>
+<h3>:headphones: 	&nbsp; Listening to:</h3>
 
 
 [![Spotify](https://novatorem-ant1n.vercel.app/api/spotify)](https://open.spotify.com/user/isakantin)
